@@ -16,6 +16,7 @@ This project provides high-level executive KPIs and granular segment drill-downs
 **
 View the interactive BMW Sales & Performance Dashboard
 👉 Refer "Working Demo.mp4" file for the video of working
+
 ---
 
 ## 🔑 Key Features & Insights
