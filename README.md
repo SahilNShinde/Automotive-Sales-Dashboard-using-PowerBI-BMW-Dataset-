@@ -14,7 +14,7 @@ This project provides high-level executive KPIs and granular segment drill-downs
 ---
 ## **Working Demo**  
 **View the interactive BMW Sales & Performance Dashboard  
-👉 Refer "Working Demo.mp4" file for the video of working**
+**[Watch System Demo Video](https://github.com/SahilNShinde/Hospital-Operations-and-Resource-Management-System/blob/master/Working%20Demo.mp4)**
 
 ---
 
